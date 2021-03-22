@@ -64,7 +64,7 @@ mem         2GB
 
 # Folders for temporal LL and HL files
 tmpll       /scratch/LL_Val/ 
-tmpll       /scratch/HL_Val/ 
+tmphl       /scratch/HL_Val/ 
 
 # Folders for LL and HL conformers
 dirll       files_LL/ 
